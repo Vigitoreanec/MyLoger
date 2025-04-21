@@ -1,4 +1,5 @@
 package Loger;
+package com.vigitoreanec.logger;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;
